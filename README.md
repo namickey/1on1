@@ -1,6 +1,8 @@
 1on1 meeting
 =============
 
+![idea_image](image/pexels-photo-355952.jpeg)
+
 ## 基本
 
 * yahooの週1回30分の上司と部下の対面ミーティング。
